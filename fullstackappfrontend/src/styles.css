@@ -1,0 +1,63 @@
+    table {
+        background-color: #fff;
+    }
+    
+    .table-bordered td {
+    font-size: 14px;
+    }
+    
+    .edit {
+    margin-right: 10px;
+    }
+    
+    .edit,
+    .delete {
+    cursor: pointer;
+    display: inline-block;
+    color: blue
+    }
+    
+    .no-data {
+    padding-top: 50px;
+    }
+    
+    .no-data p {
+    font-size: 27px;
+    color: rgba(0, 0, 0, .5);
+    letter-spacing: .2px;
+    padding-bottom: 10px;
+    }
+
+    .btt{
+        margin-left: 10px;
+    }
+    
+    .botao{
+        margin-top: 5px;
+    }
+
+    .footer2{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        padding: 5px;
+        font-size: 12px;
+        text-align: center;
+        color: #fff;
+    }
+
+    body{
+        background-image: url("assets/hr.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    h3,label{
+        color: #fff;
+    }
+
+    h3{
+        text-shadow: 2px 2px black;
+    }
+    
